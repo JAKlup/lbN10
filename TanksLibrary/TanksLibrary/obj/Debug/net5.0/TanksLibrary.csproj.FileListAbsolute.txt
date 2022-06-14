@@ -1,0 +1,12 @@
+C:\Users\lehar\source\repos\TanksLibrary\TanksLibrary\bin\Debug\net5.0\TanksLibrary.deps.json
+C:\Users\lehar\source\repos\TanksLibrary\TanksLibrary\bin\Debug\net5.0\TanksLibrary.dll
+C:\Users\lehar\source\repos\TanksLibrary\TanksLibrary\bin\Debug\net5.0\TanksLibrary.pdb
+C:\Users\lehar\source\repos\TanksLibrary\TanksLibrary\obj\Debug\net5.0\TanksLibrary.csproj.AssemblyReference.cache
+C:\Users\lehar\source\repos\TanksLibrary\TanksLibrary\obj\Debug\net5.0\TanksLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lehar\source\repos\TanksLibrary\TanksLibrary\obj\Debug\net5.0\TanksLibrary.AssemblyInfoInputs.cache
+C:\Users\lehar\source\repos\TanksLibrary\TanksLibrary\obj\Debug\net5.0\TanksLibrary.AssemblyInfo.cs
+C:\Users\lehar\source\repos\TanksLibrary\TanksLibrary\obj\Debug\net5.0\TanksLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lehar\source\repos\TanksLibrary\TanksLibrary\obj\Debug\net5.0\TanksLibrary.dll
+C:\Users\lehar\source\repos\TanksLibrary\TanksLibrary\obj\Debug\net5.0\refint\TanksLibrary.dll
+C:\Users\lehar\source\repos\TanksLibrary\TanksLibrary\obj\Debug\net5.0\TanksLibrary.pdb
+C:\Users\lehar\source\repos\TanksLibrary\TanksLibrary\obj\Debug\net5.0\ref\TanksLibrary.dll
