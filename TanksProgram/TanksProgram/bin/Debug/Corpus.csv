@@ -1,0 +1,6 @@
+Name;Weight;Price;Max Weight;ShNose
+hopper;10;100;20;false
+hornet;12;1500;22;false
+paladin;14;5000;24;true
+dictator;15;9000;25;true
+ares;17;15000;28;true

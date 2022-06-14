@@ -1,0 +1,6 @@
+Name;Weight;Price;ProtectiveMask
+Magnum;19;100;false
+Gauss;20;1500;false
+Shaft;20;5000;false
+Terminator;21;9000;true
+Sledgehammer;24;15000;true
